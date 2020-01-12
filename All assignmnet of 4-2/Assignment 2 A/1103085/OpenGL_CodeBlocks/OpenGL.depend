@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1572979981 source:c:\users\nisa\downloads\opengl_codeblocks (4)\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\nisa\downloads\opengl_codeblocks (4)\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1576003257 source:c:\users\nisa\downloads\opengl_codeblocks (4) - copy\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\nisa\downloads\opengl_codeblocks (4) - copy\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1576038638 source:c:\users\sl-9\desktop\opengl_codeblocks (4) - copy\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sl-9\desktop\opengl_codeblocks (4) - copy\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1576038640 source:f:\opengl_codeblocks (4) - copy\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\opengl_codeblocks (4) - copy\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575988240 source:d:\assignment 2 a\1103085\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1391957164 d:\assignment 2 a\1103085\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1576042321 source:e:\codes\graphics-lab\all assignmnet of 4-2\assignment 2 a\1103085\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1391957164 e:\codes\graphics-lab\all assignmnet of 4-2\assignment 2 a\1103085\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1574517089 source:c:\arik\graphics-lab\four_way_system\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573733850 c:\arik\graphics-lab\four_way_system\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575160860 source:e:\new\four_way_system\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573733852 e:\new\four_way_system\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575665912 source:e:\l4 t2 fall'19\section a\graphics lab\2nd task\new\four_way_system\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573733852 e:\l4 t2 fall'19\section a\graphics lab\2nd task\new\four_way_system\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575952533 source:f:\four_way_system\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573733852 f:\four_way_system\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1576036163 source:d:\assignment 2 a\1103017\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573733852 d:\assignment 2 a\1103017\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
